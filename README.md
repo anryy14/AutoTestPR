@@ -30,5 +30,5 @@ pytest test_jsonplaceholder_api.py
 
 ## 🧾 Файлы (находятся в ветке master)
 
-- `test_jsonplaceholder_api.py` — автотесты
-- `requirements.txt` — библиотеки
+- `test_jsonplaceholder_api.py` — автотест
+- `requirements.txt` — зависимости
