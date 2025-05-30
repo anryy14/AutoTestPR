@@ -28,7 +28,7 @@ pip install -r requirements.txt
 pytest test_jsonplaceholder_api.py
 ```
 
-## 🧾 Файлы
+## 🧾 Файлы (находятся в ветке master)
 
 - `test_jsonplaceholder_api.py` — автотесты
 - `requirements.txt` — библиотеки
